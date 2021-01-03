@@ -557,6 +557,11 @@
         padding: 60px 10px 0px;
     }
 }
+@media (max-width: 310px) {
+    .havework__text-title::before {
+        display: none;
+    }
+}
 // havework end
 // about start
 @media (max-width: 1172px) {

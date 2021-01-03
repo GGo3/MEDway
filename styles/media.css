@@ -500,6 +500,12 @@
   }
 }
 
+@media (max-width: 310px) {
+  .havework__text-title::before {
+    display: none;
+  }
+}
+
 @media (max-width: 1172px) {
   .about__text-title {
     margin-bottom: 36px;
