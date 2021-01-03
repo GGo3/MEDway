@@ -554,10 +554,10 @@
 }
 @media (max-width: 640px) {
     &__inner {
-        padding: 60px 10px 0px;
+        padding: 60px 0px 0px;
     }
 }
-@media (max-width: 310px) {
+@media (max-width: 383px) {
     .havework__text-title::before {
         display: none;
     }
