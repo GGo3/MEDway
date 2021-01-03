@@ -537,9 +537,6 @@
             flex-direction: column;
             flex-wrap: nowrap;
         }
-        &__text-title {
-            margin-bottom: 0px;
-        }
         .content-item__img {
             margin-top: 64px;
             &::before {
@@ -548,20 +545,11 @@
                 transform: rotate(90deg);
             }
         }
-        // .nonearrow::before {
-        //     display: block;
-        // }
         .adapt__item-1 {
             &::before {
                 display: block;
             }
         }
-        
-        // .havework-adapt__item {
-        //     &::before {
-        //         left: -110px;
-        //     }
-        // }
     } 
 }
 @media (max-width: 640px) {
@@ -569,9 +557,6 @@
         padding: 60px 10px 0px;
     }
 }
-// @media (max-width: 990px) {
-
-// }
 // havework end
 // about start
 @media (max-width: 1172px) {

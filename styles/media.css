@@ -480,9 +480,6 @@
     -ms-flex-wrap: nowrap;
         flex-wrap: nowrap;
   }
-  .havework__text-title {
-    margin-bottom: 0px;
-  }
   .havework .content-item__img {
     margin-top: 64px;
   }
